@@ -27,7 +27,7 @@ export default function ContactList({ setSelectedContactId }) {
   }, []);
 
   return (
-    <table>
+    <table class="card">
       <thead>
         <tr>
           <th colSpan="3">Contact List</th>
