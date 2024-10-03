@@ -58,7 +58,6 @@ table {
   border-radius: 8px;
   padding: 16px;
   max-width: 700px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 th {
   text-decoration: underline;
@@ -82,5 +81,5 @@ th {
 }
 
 #contact-button:hover {
-  background-color: #0056b3;
+  background-color: #275688;
 }
